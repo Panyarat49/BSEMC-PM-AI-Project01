@@ -6,7 +6,7 @@ token*.json
 
 # Live portfolio data (keep out while the repo is public)
 config/tickers.csv
-data/
+/data/
 
 # Apps Script local config (contains the script ID)
 .clasp.json
