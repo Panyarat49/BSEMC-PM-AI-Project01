@@ -1,0 +1,25 @@
+# Secrets
+.env
+*.key
+credentials*.json
+token*.json
+
+# Live portfolio data (keep out while the repo is public)
+config/tickers.csv
+data/
+
+# Apps Script local config (contains the script ID)
+.clasp.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
