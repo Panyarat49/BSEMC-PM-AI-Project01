@@ -1,0 +1,3 @@
+ticker,exchange,name,role
+EEM,NYSEARCA,iShares MSCI Emerging Markets ETF,benchmark
+EXAMPLE,EXCHANGE,Example holding (replace in tickers.csv),holding

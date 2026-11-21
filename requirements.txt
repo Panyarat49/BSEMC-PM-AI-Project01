@@ -1,0 +1,5 @@
+# Starting set. Add packages in the pull request that needs them.
+requests
+beautifulsoup4
+pandas
+python-dotenv
